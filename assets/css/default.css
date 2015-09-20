@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+pre {
+  font-family: 'Inconsolata', 'Courier New', monospace;
+  font-size: 12px;
+}
+article p, article li, article li.build, section p, section li{
+  font-family: 'Open Sans','Helvetica', 'Crimson Text', 'Garamond',  'Palatino', sans-serif;
+  text-align: justify;
+  font-size:18px;
+  line-height: 1.5em;
+  color: #444;
+}
+
+.title-slide {
+  background-color: #333333; /* #EDE0CF; ; #CA9F9D*/
+}
+
+.title-slide hgroup > h1, 
+.title-slide hgroup > h2 {
+  color: #FFFFFF ;  /* ; #EF5150*/
+}
